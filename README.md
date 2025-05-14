@@ -7,13 +7,10 @@ This is the software developed using the **Unity 2022.3 LTS** to create a virtua
 In the main menu, there are 2 options to select by users.
 - Scene 1: Environment based on the local geography of Riobamba.
 - Scene 2: Environment based on the Top Gun movie.
-- 
+  
 ![image info](./Imgs/Img2.jpeg)
 
-## Results of TR_KF Interface
-Results of whole set of features tracked are presented in 2 graphics which are related with the mean distance and mean velocity computed during the sequence of images.
-Error is the measure of the Kalman filter for the detection process.
+## Design plane in Unity
 
-![image info](./src/ima2.png)
+![image info](./Imgs/Img3.jpeg)
 
-TR_KF Interface has been presented in paper https://www.sciencedirect.com/science/article/abs/pii/S0026265X24009822
