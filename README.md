@@ -5,6 +5,9 @@ This is the software developed using the **Unity 2022.3 LTS** to create a virtua
 
 ## Main menu
 In the main menu, there are 2 options to select by users.
+- Scene 1: Environment based on the local geography of Riobamba.
+- Scene 2: Environment based on the Top Gun movie.
+- 
 ![image info](./Imgs/Img2.jpeg)
 
 ## Results of TR_KF Interface
