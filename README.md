@@ -12,5 +12,8 @@ In the main menu, there are 2 options to select by users.
 
 ## Design plane in Unity
 
-![image info](./Imgs/Img3.jpeg)
+| ![image info](./Imgs/Img3.jpeg)   | ![image info](./Imgs/Img4.jpeg) |
+
+![image info](./Imgs/Img5.jpeg)
+
 
