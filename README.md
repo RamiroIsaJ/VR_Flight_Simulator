@@ -24,4 +24,10 @@ In the main menu, there are 2 options to select by users.
 
 ![image info](./Imgs/Img7.jpeg)
 
+## Fligth envrionment base on Chimborazo - Ecuador
+
+| ![image info](./Imgs/Img9.jpeg)   | ![image info](./Imgs/Img10.jpeg) |
+| -------- | ------- |
+
+![image info](./Imgs/Img11.jpeg)
 
