@@ -1,12 +1,11 @@
-# Flight_Simulator using Haptic chair and Virtual Reality
-TR_KF by **Multi Tracking objects with Kalman Filter** is a GUI Interface programmed in *PYTHON* using PySimpleGUI for object detection and tracking process in a sequence of images.
-This is a test version 1.2.5
+# Flight Simulator using Haptic chair and Virtual Reality
+This is the software developed using the **Unity 2022.3 LTS** to create a virtual reality environment to simulate flight training.
 
 ![image info](./Imgs/Img1.jpeg)
 
-## Run of TR_KF Interface
-This program can be used for object detection and evaluate the performance of filter and morphological operations which could be changed. A repeatability measure is used to show results.
-For multi-tracking, the Kalman Filter is used where features detected are identified in a radius value. 
+## Main menu
+In the main menu, there are 2 options to select by users.
+![image info](./Imgs/Img2.jpeg)
 
 ## Results of TR_KF Interface
 Results of whole set of features tracked are presented in 2 graphics which are related with the mean distance and mean velocity computed during the sequence of images.
